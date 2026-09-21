@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>The TCG Network</title>
+        <!--By: Kijani Riley  kriley9810@conestogac.on.ca-->
+    </head>
+    <body>
+        <header>
+            <h1> TCGNet - All about Trading Gard Cames! </h1>
+
+        </header>
+        <nav>
+            <`a href="">Home</a>
+            <a href="" color="">Pokemon Card Cost Calculator</a>
+            <a href="" color="">Booster Packs & Battle Boxes</a>
+            <a href="" color="blue">TCG Glossary</a>
+            <a href="">Upcoming Events & Expos</a>
+
+        </nav>
+        <br>
+        <br>
+        <main>
+            <img src = "https://d1vqr0cheeo2qs.cloudfront.net/articles/title_images/000/044/799/medium/trading_cards.jpg?2024" alt = "Trading cards from different franchises." title="More common trading cards, such as Pokemon, Yu-Gi-Oh!, and Magic the Gathering. Used in either a TCG setting, or as a collectible.">
+            <!--Image from TsunaguJapan (2024, Oct 25) "hhttps://www.tsunagujapan.com/trading-card-game/".-->
+            
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper, metus at fermentum consectetur, ipsum lectus interdum libero, nec maximus augue eros quis urna. Ut sit amet ullamcorper nisi. Sed malesuada ut velit nec auctor. In vulputate maximus tristique. Etiam gravida mollis ullamcorper. Praesent vitae ante non lacus gravida aliquet vitae et dolor. Nulla suscipit posuere nisi sed cursus. Donec eleifend imperdiet nibh sagittis feugiat.
+            </p>
+            <br>
+            <br>
+                <img src = "https://miro.medium.com/v2/resize:fit:1400/1*ZWNdI9tGr67yH5oem5npOw.jpeg" alt = "a pile of various Sports Trading Cards." title="Trading cards from various sports. They aren't used in a TCG setting, but are still valued today.">
+            <p>
+                Aliquam dapibus lectus finibus, sodales ante ut, aliquet turpis. Vestibulum venenatis tincidunt tellus, sed pulvinar erat aliquet ac. Sed faucibus, enim a viverra faucibus, ipsum enim pellentesque nulla, a porttitor massa leo sit amet purus. Maecenas tincidunt massa eget erat auctor volutpat. Integer volutpat sem bibendum, vulputate arcu at, sagittis ipsum. Sed interdum dapibus nunc, scelerisque tincidunt turpis tincidunt a. Etiam condimentum pellentesque nisi sed congue. Aliquam id dapibus metus, non eleifend diam. Nam gravida dignissim rutrum. Ut non molestie libero, ut finibus erat. Etiam dignissim est vel est vestibulum semper. Praesent interdum vulputate lacus, sed semper erat mollis ornare. Aenean vel nibh at arcu semper pellentesque. Vivamus ut ultrices felis. Maecenas bibendum sodales neque, eu eleifend odio eleifend id.
+            </p>
+        </main>
+
+        <aside>
+            <h3>All About TCGs</h3>
+            <ul>
+                <li><a href="https://medium.com/coinmonks/the-enchanting-history-of-trading-card-games-d5d3aade9e43" color="brown"> History of TCGs - Medium</a></li>
+                <li><a href="https://www.tcgplayer.com/categories?srsltid=AU7gw4XSmvLCoVddC2-mJA-_Kj1Xx66UeVZwIQ-5t8qa8LQAX48jUQ3c" color="brown">List of TCGs - TCGPlayer</a></li>
+                <li>Popular TCGs today</li>
+                <li>TCG Meta: What is it?</li>
+            </ul>
+        </aside>
+        <br>
+        <footer>
+            <p>Copyright Conestoga College, 2026</p>
+        </footer>
+    </body>
+</html>
